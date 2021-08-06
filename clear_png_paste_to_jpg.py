@@ -1,9 +1,10 @@
+#this is for human facedet use
 import cv2
 from PIL import Image
 import numpy
 import PyFaceDet
 cap = cv2.VideoCapture(0)
-covered = cv2.imread(r"C:\Users\work_space\python\toys\video\poker_face.png", cv2.IMREAD_UNCHANGED)
+covered = cv2.imread(r"Front_pic_path", cv2.IMREAD_UNCHANGED)
 cv2.resize(covered,(600,600))
 b, g, r, a = cv2.split(covered)
 foreground = cv2.merge((b, g, r))
