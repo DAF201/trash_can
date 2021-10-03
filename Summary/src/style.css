@@ -1,0 +1,45 @@
+.table {
+    display: table;
+}
+
+.column {
+    display: table;
+}
+
+.cell {
+    display: table-cell;
+    min-width: 350px;
+    width: auto;
+    min-height: 500px;
+}
+
+#rotate {
+    height: 500px;
+    position:relative;
+}
+
+#rotate a {
+    position:absolute;
+    color: white;
+    font-weight: bold;
+    font-size: 12px;
+    z-index: 0 !important;
+}
+
+p {
+    color: black;
+}
+
+.head{
+    text-align: center;
+    font-size: 24;
+}
+
+.input{
+    text-align: center;
+}
+
+.center-block {
+    margin: auto;
+    display: block;
+}
