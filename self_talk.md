@@ -21,3 +21,7 @@ Years ago, I saw a boy enter the office confidently but left crying. I left calm
 10/09/2021:
 
 Really want to just call a taxi to carry me to the airport just to feel the noise of life, this place is too quiet.
+
+10/10/2021:
+
+The others laughed, so he also gregariously laughed
