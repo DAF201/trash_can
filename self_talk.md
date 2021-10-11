@@ -25,3 +25,7 @@ Really want to just call a taxi to carry me to the airport just to feel the nois
 10/10/2021:
 
 The others laughed, so he also gregariously laughed
+
+10/11/2021:
+
+The ridiculous thing I ever heard: "you will get used to it".
