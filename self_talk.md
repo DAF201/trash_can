@@ -33,3 +33,7 @@ The ridiculous thing I ever heard: "you will get used to it".
 10/11/2021:
 
 One thing I found, people always evaluate others by how well they can remember definitions and concepts instead of how well/fast they can find a solution to questions.
+
+10/12/2021:
+
+I don't care. they don't care.
