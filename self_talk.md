@@ -37,3 +37,7 @@ One thing I found, people always evaluate others by how well they can remember d
 10/12/2021:
 
 I don't care. they don't care.
+
+10/16/2021:
+
+'asymmetric recruiting': when a company provides a 'summer internship opportunity ' which requires undergraduate college students have the skills in program languages, front/back, Database management, TCP/IP, application development, and web design without telling why.
