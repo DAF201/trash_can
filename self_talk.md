@@ -40,4 +40,8 @@ I don't care. they don't care.
 
 10/16/2021:
 
-'asymmetric recruiting': when a company provides a 'summer internship opportunity ' which requires undergraduate college students have the skills in program languages, front/back end, Database management, TCP/IP, application development, and web page design without telling why.
+'Asymmetric recruiting': when a company provides a 'summer internship opportunity ' which requires undergraduate college students have the skills in program languages, front/back end, Database management, TCP/IP, application development, and web page design without telling why.
+
+10/17/2021:
+
+Home is where the heart is allocated at.
