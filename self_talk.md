@@ -49,3 +49,6 @@ Home is where the heart is allocated at.
 10/18/2021:
 
 Just a branch fell from the tree.
+
+10/22/2021:
+0.99...==1?
