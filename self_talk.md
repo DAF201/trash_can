@@ -61,3 +61,7 @@ I am sorry
 10/26/2021:
 
 大家都只是这些只手遮天的人的提线木偶罢了就没必要争个高低对错了把
+
+11/02/2021:
+
+What is the color of the electric sheep in your eyes?
