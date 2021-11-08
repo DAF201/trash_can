@@ -65,3 +65,7 @@ I am sorry
 11/02/2021:
 
 What is the color of the electric sheep in your eyes?
+
+11/08/2021:
+
+Do those poor outside the bridges dream the same electric sheep as the riches within the bridges?
