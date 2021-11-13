@@ -73,3 +73,7 @@ Do those poor outside the bridges dream the same electric sheep as the riches wi
 11/10/2021:
 
 God and love, we lost both.
+
+11/12/2021:
+
+When I was passing the boundary area of DT Dallas, I saw a district with beautiful public facilities, parks but crumbling houses, garbages, and baggers. On the crooking wall, there is 'The future is there'. What future it is？ Who's future it is ? When the future it is ? Where the future it is？How the future it is? I don't know, I just feel ridiculous.
