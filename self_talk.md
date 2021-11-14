@@ -77,3 +77,9 @@ God and love, we lost both.
 11/12/2021:
 
 When I was passing the boundary area of DT Dallas, I saw a district with beautiful public facilities, parks but crumbling houses, garbages, and baggers. On the crooking wall, there is 'The future is there'. What future it is？ Who's future it is? When the future it is? Where the future it is？How the future it is? I don't know, I just feel ridiculous.
+
+11/14/2021:
+
+Dream:
+
+Someone hand me a viscera-like thing fresh from a corpse and a blue cloth to clear that up. I sank the cloth under the tap, I saw a picture of a familiar start showing. Suddenly, the cloth starts to fade. I was watching the cloth slowly turning in yellow under the falling water, and the picture became misty, twisted, finally, nothing left. I, in the dream, realized, there are things we can't help anyway, we can only say it decay, corrupt. I, out of the dream, realized I can't always guard an empty grave, things gone and people dead can never come back. Goodbye, FZZL.
