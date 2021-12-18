@@ -1,0 +1,279 @@
+times = 0
+PATH=''
+#this is the first mole!
+times = times+1
+this = __file__
+
+import subprocess
+import os
+def change():
+    try:
+        with open(__file__, 'r')as this_file:
+            this = this_file.readlines()[2:]
+        temp = ''
+        for x in this:
+            temp = temp+x
+        this = temp
+        with open("mole"+str(times)+".py", 'w')as file:
+            file.write('times=%s\nPATH=r"%s"\n%s' % (times, __file__, this))
+    except:
+        change()
+    finally:
+        print('this is the %s mole!'%(times-1))
+    try:
+        subprocess.Popen("python mole"+str(times)+".py")
+        os.remove(PATH)
+    except:
+        subprocess.Popen("python mole"+str(times)+".py")
+        os.remove(PATH)
+change()
+
+
+times = 0
+#this is the first mole!
+times = times+1
+this = __file__
+
+
+def change():
+    try:
+        with open(__file__, 'r')as this_file:
+            this = this_file.readlines()[2:]
+        temp = ''
+        for x in this:
+            temp = temp+x
+        this = temp
+        with open("mole"+str(times)+".py", 'w')as file:
+            file.write('times=%s\nPATH=r"%s"\n%s' % (times, __file__, this))
+    except:
+        pass
+    finally:
+        print('this is the %s mole!'%(times-1))
+
+
+change()
+
+times = 0
+PATH=''
+#this is the first mole!
+#this thing is build on bug, the first few time runs will comes with warning for sure
+
+
+
+#10/05/2021 update:
+"""
+This mole work for vscode terminal with command python mole(running mode not debug mode)
+However, it will cause the stack overflow when it comes to cmd and PowerShell
+"""
+times = times+1
+this = __file__
+
+import subprocess
+import os
+def change():
+    try:
+        with open(__file__, 'r')as this_file:
+            this = this_file.readlines()[2:]
+        temp = ''
+        for x in this:
+            temp = temp+x
+        this = temp
+        with open("mole"+str(times)+".py", 'w')as file:
+            file.write('times=%s\nPATH=r"%s"\n%s' % (times, __file__, this))
+    except:
+        change()
+    finally:
+        print('this is the %s mole!'%(times-1))
+    try:
+        subprocess.Popen("python mole"+str(times)+".py")
+        os.remove(PATH)
+    except:
+        subprocess.Popen("python mole"+str(times)+".py")
+        os.remove(PATH)
+change()
+
+
+times = 0
+PATH=''
+#this is the first mole!
+#this thing is build on bug, the first few time runs will comes with warning for sure
+
+
+
+#10/05/2021 update:
+"""
+This mole work for vscode terminal with command python mole(running mode not debug mode)
+However, it will cause the stack overflow when it comes to cmd and PowerShell
+"""
+times = times+1
+this = __file__
+
+import subprocess
+import os
+def change():
+    try:
+        with open(__file__, 'r')as this_file:
+            
+            this = this_file.readlines()[2:]
+        temp = ''
+        for x in this:
+            temp = temp+x
+        this = temp
+        with open("mole"+str(times)+".py", 'w')as file:
+            file.write('times=%s\nPATH=r"%s"\n%s' % (times, __file__, this))
+    except:
+        with open(__file__, 'r')as this_file:
+            this = this_file.readlines()[2:]
+        temp = ''
+        for x in this:
+            temp = temp+x
+        this = temp
+        with open("mole"+str(times)+".py", 'w')as file:
+            file.write('times=%s\nPATH=r"%s"\n%s' % (times, __file__, this))
+    finally:
+        print('this is the %s mole!'%(times-1))
+    try:
+        os.remove(PATH)
+    except:
+        os.remove(PATH)
+    finally:
+        subprocess.Popen("python mole"+str(times)+".py")
+change()
+
+
+times = 0
+PATH = ''
+# this is the first mole!
+"""
+This work on both
+"""
+import subprocess
+import os
+times = times+1
+this = __file__
+
+
+def self_copy():
+    with open(__file__, 'r')as this_file:
+        this = this_file.readlines()[2:]
+    temp = ''
+    for x in this:
+        temp = temp+x
+    this = temp
+    with open("mole"+str(times)+".py", 'w')as file:
+        file.write('times=%s\nPATH=r"%s"\n%s' % (times, __file__, this))
+
+
+def call_up():
+    print('this is the %s mole!' % (times-1))
+    subprocess.Popen("python mole"+str(times)+".py")
+
+
+def change():
+    try:
+        self_copy()
+    except:
+        self_copy()
+    finally:
+        call_up()
+    try:
+        os.remove(PATH)
+    except:
+        os.remove(PATH)
+
+
+change()
+
+
+
+
+
+
+
+
+
+times = 0
+PATH = ''
+import ctypes
+import sys
+import os
+import subprocess
+times = times+1
+this = __file__
+
+
+if ctypes.windll.shell32.IsUserAnAdmin():
+    pass
+else:
+    ctypes.windll.shell32.ShellExecuteW(
+        None, "runas", sys.executable, __file__, None, 1)
+    sys.exit()
+
+
+def self_copy():
+    with open(__file__, 'r+')as this_file:
+        this = this_file.readlines()[2:]
+    temp = ''
+    for x in this:
+        temp = temp+x
+    this = temp
+    with open("mole"+str(times)+".py", 'w+')as file:
+        file.write('times=%s\nPATH=r"%s"\n%s' % (times, __file__, this))
+
+
+def call_up():
+    print('this is the %s mole!' % (times-1))
+    subprocess.Popen("python mole"+str(times)+".py")
+
+
+def change():
+    try:
+        self_copy()
+    except:
+        change()
+    finally:
+        call_up()
+    try:
+        os.remove(PATH)
+    except:
+        change()
+
+
+change()
+
+
+times = 0
+PATH = ''
+import subprocess
+import os
+import ctypes, sys
+if ctypes.windll.shell32.IsUserAnAdmin():
+    pass
+else:
+    ctypes.windll.shell32.ShellExecuteW(None, "runas", sys.executable, __file__, None, 1)
+    sys.exit()
+times = times+1
+this = __file__
+def self_copy():
+    with open(__file__, 'r')as this_file:
+        this = this_file.readlines()[2:]
+    temp = ''
+    for x in this:
+        temp = temp+x
+    this = temp
+    with open("mole"+str(times)+".py", 'w')as file:
+        file.write('times=%s\nPATH=r"%s"\n%s' % (times, __file__, this))
+def call_up():
+    print('this is the %s mole!' % (times-1))
+    subprocess.Popen("python mole"+str(times)+".py")
+def change():
+    try:
+        self_copy()
+    except:
+        change()
+    try:
+        call_up()
+    except:
+        change()
+    os.remove(__file__)
+change()
